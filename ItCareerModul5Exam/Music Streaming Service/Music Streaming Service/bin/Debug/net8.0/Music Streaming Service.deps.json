@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Music Streaming Service/1.0.0": {
+        "runtime": {
+          "Music Streaming Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Music Streaming Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

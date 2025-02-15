@@ -1,0 +1,14 @@
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\bin\Debug\net8.0\Music Streaming Service.exe
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\bin\Debug\net8.0\Music Streaming Service.deps.json
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\bin\Debug\net8.0\Music Streaming Service.runtimeconfig.json
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\bin\Debug\net8.0\Music Streaming Service.dll
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\bin\Debug\net8.0\Music Streaming Service.pdb
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.AssemblyInfoInputs.cache
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.AssemblyInfo.cs
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.csproj.CoreCompileInputs.cache
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.dll
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\refint\Music Streaming Service.dll
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.pdb
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\Music Streaming Service.genruntimeconfig.cache
+D:\schoolWork\ItCareerModul5Exam\Music Streaming Service\Music Streaming Service\obj\Debug\net8.0\ref\Music Streaming Service.dll
