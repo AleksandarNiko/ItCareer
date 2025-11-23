@@ -1,0 +1,14 @@
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\bin\Debug\net8.0\01.Helmets.exe
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\bin\Debug\net8.0\01.Helmets.deps.json
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\bin\Debug\net8.0\01.Helmets.runtimeconfig.json
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\bin\Debug\net8.0\01.Helmets.dll
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\bin\Debug\net8.0\01.Helmets.pdb
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.AssemblyInfoInputs.cache
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.AssemblyInfo.cs
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.csproj.CoreCompileInputs.cache
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.dll
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\refint\01.Helmets.dll
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.pdb
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\01.Helmets.genruntimeconfig.cache
+D:\schoolWork\ItCareerModul10FinalExam\01.Helmets\obj\Debug\net8.0\ref\01.Helmets.dll

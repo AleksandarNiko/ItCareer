@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Helmets", "01.Helmets\01.Helmets.csproj", "{B9D920BC-2777-4743-9B3B-1A4DEF5D76A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Shepherd", "02.Shepherd\02.Shepherd.csproj", "{3B9ECCC6-9178-42C2-A8C8-55A90189F147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D920BC-2777-4743-9B3B-1A4DEF5D76A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D920BC-2777-4743-9B3B-1A4DEF5D76A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D920BC-2777-4743-9B3B-1A4DEF5D76A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D920BC-2777-4743-9B3B-1A4DEF5D76A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9ECCC6-9178-42C2-A8C8-55A90189F147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9ECCC6-9178-42C2-A8C8-55A90189F147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9ECCC6-9178-42C2-A8C8-55A90189F147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9ECCC6-9178-42C2-A8C8-55A90189F147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75224FC1-446C-4556-8582-A11A1AB55DA6}
+	EndGlobalSection
+EndGlobal

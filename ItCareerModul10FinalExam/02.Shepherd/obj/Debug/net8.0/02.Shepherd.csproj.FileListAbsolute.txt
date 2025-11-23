@@ -1,0 +1,14 @@
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\bin\Debug\net8.0\02.Shepherd.exe
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\bin\Debug\net8.0\02.Shepherd.deps.json
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\bin\Debug\net8.0\02.Shepherd.runtimeconfig.json
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\bin\Debug\net8.0\02.Shepherd.dll
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\bin\Debug\net8.0\02.Shepherd.pdb
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.AssemblyInfoInputs.cache
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.AssemblyInfo.cs
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.csproj.CoreCompileInputs.cache
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.dll
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\refint\02.Shepherd.dll
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.pdb
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\02.Shepherd.genruntimeconfig.cache
+D:\schoolWork\ItCareerModul10FinalExam\02.Shepherd\obj\Debug\net8.0\ref\02.Shepherd.dll
