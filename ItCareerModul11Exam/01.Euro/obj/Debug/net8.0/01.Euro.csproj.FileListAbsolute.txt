@@ -1,0 +1,14 @@
+D:\schoolWork\ItCareerModul11Exam\01.Euro\bin\Debug\net8.0\01.Euro.exe
+D:\schoolWork\ItCareerModul11Exam\01.Euro\bin\Debug\net8.0\01.Euro.deps.json
+D:\schoolWork\ItCareerModul11Exam\01.Euro\bin\Debug\net8.0\01.Euro.runtimeconfig.json
+D:\schoolWork\ItCareerModul11Exam\01.Euro\bin\Debug\net8.0\01.Euro.dll
+D:\schoolWork\ItCareerModul11Exam\01.Euro\bin\Debug\net8.0\01.Euro.pdb
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.AssemblyInfoInputs.cache
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.AssemblyInfo.cs
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.csproj.CoreCompileInputs.cache
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.dll
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\refint\01.Euro.dll
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.pdb
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\01.Euro.genruntimeconfig.cache
+D:\schoolWork\ItCareerModul11Exam\01.Euro\obj\Debug\net8.0\ref\01.Euro.dll
