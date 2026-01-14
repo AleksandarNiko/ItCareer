@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign In - Studio</title>
+    <link rel="stylesheet" href="studio.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <div class="logo">Studio</div>
+        </div>
+        <div class="header-center">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="sales.html">Sales</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="about.html">About us</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="header-right">
+            <button class="sign-in" onclick="window.location.href='signin.html'">Sign In</button>
+        </div>
+    </header>
+
+    <section class="login-container">
+        <div class="login-box">
+            <h2>Welcome Back</h2>
+            <form>
+                <input type="email" placeholder="Email Address" required>
+                <input type="password" placeholder="Password" required>
+                <button type="submit" class="discover-btn" style="width: 100%;">Login</button>
+            </form>
+            <p>Don't have an account? <a href="#" style="color: #ec8b18;">Sign Up</a></p>
+        </div>
+    </section>
+</body>
+</html>

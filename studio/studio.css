@@ -1,0 +1,264 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(249, 250, 250);
+    height: 70px;
+    padding: 0;
+}
+
+.header-left {
+    width: 20%;
+    padding: 15px 0 15px 40px;
+}
+
+.header-center {
+    width: 60%;
+}
+
+.header-right {
+    width: 20%;
+    padding-top: 15px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: font-weight 0.3s;
+}
+
+nav ul li a:hover {
+    font-weight: bold;
+    color:  #ec8b18
+}
+
+.sign-in {
+    width: 100px;
+    height: 40px;
+    background-color: #ec8b18;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.main-section {
+    display: flex;
+    height: 650px;
+}
+
+.left-column, .right-column {
+    width: 50%;
+    height: 650px;
+}
+
+.left-column {
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+.left-column h4 {
+    letter-spacing: 2px;
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+.left-column h1 {
+    font-size: 36px;
+    line-height: 1.4;
+    margin-bottom: 30px;
+}
+
+.left-column h1 .highlight {
+    color: #ec8b18;
+}
+
+.left-column h1 .dot {
+    color: #ec8b18;
+}
+
+.left-column p {
+    color: grey;
+    border-left: 2px solid grey;
+    padding-left: 8px;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+.discover-btn {
+    width: 150px;
+    padding: 10px;
+    background-color: #ec8b18;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+}
+
+.right-column img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* General Content Styling */
+.content-wrapper {
+    padding: 50px 100px;
+}
+
+.page-title {
+    font-size: 32px;
+    margin-bottom: 40px;
+    border-bottom: 3px solid #ec8b18;
+    display: inline-block;
+}
+
+/* Product Grid */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.product-card {
+    border: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s;
+    position: relative;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+.img-placeholder {
+    background-color: #ffffff;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.img-placeholder img{
+    width: 100%;
+    height: 100%;
+    object-fit:scale-down;
+    background-color: #ffffff;
+}
+
+.buy-btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Sales Styling */
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: red;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #ccc;
+    margin-right: 10px;
+}
+
+.login-container {
+    height: calc(100vh - 10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9fafa;
+}
+
+.login-box {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    width: 350px;
+    text-align: center;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Update navigation to highlight active/hover state consistently */
+nav ul li a:hover, nav ul li a.active {
+    font-weight: bold;
+    color: #ec8b18;
+}
+
+/* Ensure textarea matches input styling in the login-box */
+.login-box textarea {
+    resize: none;
+}
+
+/* Ensure images don't break if missing */
+.right-column img {
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit:scale-down;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .main-section {
+        flex-direction: column;
+    }
+
+    .left-column, .right-column {
+        width: 100%;
+        height: auto;
+    }
+
+    .left-column {
+        padding: 50px;
+    }
+}
+/* Additional styling for contact and about pages can be added here */
+
+/* End of studio.css */
+
